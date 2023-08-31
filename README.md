@@ -11,13 +11,13 @@
 
 # usage
 
-'''
+```
 ## classification 
 python train_cls.py
 
 ## segementation
 python train_seg.py
-'''
+```
 
 # Acknowledgement
 The structure of this codebase is borrowed from DGCNN, pointMLP.
